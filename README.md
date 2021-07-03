@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ermidebebe
+- 👋 Hi, I’m Ermias Debebe
 - 👀 I’m interested in Data science, Artificial intelligence and coding in general
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on projects which require the use of artificial intelligence.
