@@ -6,7 +6,7 @@
 
 - 🌱 I’m working at Qwoted and Freelancing at Upwork.
 - 👯 I’m looking to collaborate on Data science and Artificial Intelligence projects.
-- 📫 How to reach me:[![Linkedin](https://img.shields.io/badge/-Zelalem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ermiyas-debebe-gashe/)](https://www.linkedin.com/in/thaianebraga/)
+- 📫 How to reach me:[![Linkedin](https://img.shields.io/badge/-Ermiyas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ermiyas-debebe-gashe/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub](https://img.shields.io/github/followers/ermidebebe?label=follow&style=social)](https://github.com/ermidebebe)
 
 - ⚡ Fun fact:  I want you to be remembered for my positive and open-minded attitude.
