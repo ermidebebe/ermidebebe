@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
 - 🌱 I’m a Data Scientist at Qwoted, an AI Research Engineer at Neat Trading Labs, and a Top-rated plus freelancer at Upwork.
 - 👯 I’m looking to collaborate on Data Science and Artificial Intelligence projects.
 - ⚡ Fun fact:  I am a curious and hard-working person.
