@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ermidebebe&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="More Ermiyas stats" /></p>
-| <a href="https://github.com/ermidebebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ermidebebe&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&count_private=true" /></a>| | <a href="https://github.com/ermidebebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermidebebe&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8"  /></a> |
+<span></span><a href="https://github.com/ermidebebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ermidebebe&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&count_private=true" /></a><a href="https://github.com/ermidebebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermidebebe&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8"  /></a><span>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
